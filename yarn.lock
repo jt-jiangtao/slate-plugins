@@ -724,13 +724,14 @@
 
 "@mo-demo/cli-shared-utils@file:F:\\thesis\\slate-plugins\\packages\\cli-shared-utils":
   "resolved" "file:packages/cli-shared-utils"
-  "version" "0.0.0"
+  "version" "0.0.1"
   dependencies:
     "chalk" "^5.1.2"
+    "semver" "^7.3.8"
 
 "@mo-demo/cli@file:F:\\thesis\\slate-plugins\\packages\\cli":
   "resolved" "file:packages/cli"
-  "version" "0.0.0"
+  "version" "0.0.1"
   dependencies:
     "chalk" "^5.1.2"
 
